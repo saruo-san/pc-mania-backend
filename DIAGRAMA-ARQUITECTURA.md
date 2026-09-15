@@ -71,7 +71,7 @@ flowchart LR
     class Cognito,Token auth
     class Spring,Cors,Controller,Validation,Service,Storage backend
     class Errors error
-``` 
+```
 
 ## Componentes
 
